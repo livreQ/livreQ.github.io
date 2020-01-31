@@ -8,7 +8,7 @@ lang: fr
 Ceci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
 
 Vous pouvez trouver ce thème multilingue sur :
-{% include icon-github.html username="sylvaindurand" %} /
+{% include icon-github.html username="livreQ" %} /
 [multilingual-jekyll](https://github.com/livreQ/livreQ.github.io/tree/master/jekyll-multilingual)
 
 Vous pouvez trouver le code source de ce nouveau thème Jekyll sur :
