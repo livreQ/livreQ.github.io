@@ -10,7 +10,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 
 You can find this multilanguage theme at :
 {% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+[multilingual-jekyll](https://github.com/livreQ/livreQ.github.io/tree/master/jekyll-multilingual)
 
 You can find the original source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
