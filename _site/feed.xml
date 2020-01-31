@@ -3,10 +3,10 @@
   <channel>
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/jekyll-multilingual/</link>
-    <atom:link href="http://yourdomain.com/jekyll-multilingual/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 17:06:08 -0500</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 17:06:08 -0500</lastBuildDate>
+    <link>http://livreq.github.io/jekyll-multilingual/</link>
+    <atom:link href="http://livreq.github.io/jekyll-multilingual/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 31 Jan 2020 17:42:52 -0500</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 17:42:52 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
     
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 29 Feb 2016 03:48:44 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll-multilingual/jekyll/update/2016/02/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-multilingual/jekyll/update/2016/02/29/welcome-to-jekyll.html</guid>
+        <link>http://livreq.github.io/jekyll-multilingual/jekyll/update/2016/02/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://livreq.github.io/jekyll-multilingual/jekyll/update/2016/02/29/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
