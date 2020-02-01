@@ -3,10 +3,10 @@
   <channel>
     <title>Votre titre génial</title>
     <description>Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.</description>
-    <link>http://yourdomain.com/jekyll-multilingual/</link>
-    <atom:link href="http://yourdomain.com/jekyll-multilingual/flux.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 19:40:52 -0500</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 19:40:52 -0500</lastBuildDate>
+    <link>http://yourdomain.com//</link>
+    <atom:link href="http://yourdomain.com//flux.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 31 Jan 2020 19:47:27 -0500</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 19:47:27 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
     
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 29 Feb 2016 03:48:44 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll-multilingual/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll-multilingual/jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</guid>
+        <link>http://yourdomain.com//jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com//jekyll/update/2016/02/29/bienvenue-sur-jekyll.html</guid>
         
         
         <category>jekyll</category>
