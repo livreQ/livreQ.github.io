@@ -1,4 +1,3 @@
-# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,22 +6,30 @@
 
 # Site settings
 title:
-  en: Your awesome title
-  fr: Votre titre génial
-email: your-email@domain.com
+  en: WiQiPedia
+  fr: WiQiPedia
+  zh: WiQiPedia
+footer_name:
+  en: Contact
+  fr: Contact
+  zh: Contact
+email: qi.chen.1@ulaval.ca
 description:
-  en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-  fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  en:
+  fr:
+  zh:
 index:
   en:
   fr: accueil.html
+  zh:
 feed:
   en: /feed.xml
   fr: /flux.xml
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: livreq
+github_username:  livreq
+linkedin: qichen
 
 # Build settings
 markdown: kramdown

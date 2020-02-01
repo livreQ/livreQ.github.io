@@ -32,25 +32,14 @@
   
     
       <url>
-        <loc>/a-propos.html</loc>
+        <loc>/blogs.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/blogs.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="fr" href="/blogs_fr.html" />
         
-        <changefreq>weekly</changefreq>
-      </url>
-    
-  
-    
-      <url>
-        <loc>/about/</loc>
-        
-        
-          <xhtml:link rel="alternate" hreflang="fr" href="/a-propos.html" />
-        
-          <xhtml:link rel="alternate" hreflang="en" href="/about/" />
+          <xhtml:link rel="alternate" hreflang="zh" href="/blogs_zh.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -58,12 +47,29 @@
   
     
       <url>
-        <loc>/accueil.html</loc>
+        <loc>/blogs_fr.html</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/blogs.html" />
         
-          <xhtml:link rel="alternate" hreflang="en" href="/" />
+          <xhtml:link rel="alternate" hreflang="fr" href="/blogs_fr.html" />
+        
+          <xhtml:link rel="alternate" hreflang="zh" href="/blogs_zh.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blogs_zh.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blogs.html" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/blogs_fr.html" />
+        
+          <xhtml:link rel="alternate" hreflang="zh" href="/blogs_zh.html" />
         
         <changefreq>weekly</changefreq>
       </url>
@@ -112,9 +118,41 @@
         <loc>/</loc>
         
         
-          <xhtml:link rel="alternate" hreflang="fr" href="/accueil.html" />
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/index_fr.html" />
+        
+          <xhtml:link rel="alternate" hreflang="zh" href="/index_zh.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/index_fr.html</loc>
+        
         
           <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/index_fr.html" />
+        
+          <xhtml:link rel="alternate" hreflang="zh" href="/index_zh.html" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/index_zh.html</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/index_fr.html" />
+        
+          <xhtml:link rel="alternate" hreflang="zh" href="/index_zh.html" />
         
         <changefreq>weekly</changefreq>
       </url>
